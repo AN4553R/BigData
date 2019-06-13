@@ -10,3 +10,9 @@ Required libraries:
    + `forecast`
    
    + `tseries`
+   
+   + `rjson`
+   
+   + `lubridate`
+   
+   + `cowplot`
