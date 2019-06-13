@@ -1,5 +1,9 @@
 #### Digital Music Dataset
 
++ [reviews_Digital_Music_5.json.gz](snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Digital_Music_5.json.gz)
+
++ [ratings_Digital_Music.csv](snap.stanford.edu/data/amazon/productGraph/categoryFiles/ratings_Digital_Music.csv)
+
 > Description
 
 This dataset contains product reviews and metadata from Amazon, including 142.8 million reviews spanning May 1996 - July 2014.
